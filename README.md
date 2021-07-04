@@ -31,10 +31,13 @@ https://url.kr/rn1bd3
 <hr>
 
 ### <프로그래머스>
-<b>◼ 가장 큰 수</b><br>
+<b>◼ [Level 2]프린터</b><br>
+https://han.gl/8dYvE
+
+<b>◼ [Level 2]가장 큰 수</b><br>
 https://han.gl/Q8ihw
 
-<b>◼ 전화번호 목록</b><br>
+<b>◼ [Level 2]전화번호 목록</b><br>
 https://han.gl/FkJZ2
 
 <b>◼ 제일 작은 수 제거하기</b><br>
